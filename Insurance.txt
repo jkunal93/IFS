@@ -1,0 +1,1000 @@
+##
+Q1. What is the customer service phone number?
+
+A. The State Farm toll-free customer service number is 855-733-7333.
+
+##
+Q2. Is there a toll-free number for a rate quote?
+
+A. You can contact us at 800-782-8332 (800-STATE FARM).
+For calls during business hours, your call will be directed to an agent near you. For calls after-hours and on weekends, your call will be directed to a Customer Care Center representative. Spanish-speaking representatives are available by calling 877-274-0543.
+
+##
+Q3. Is my account number the same as my policy number?
+A. No. A policy number is an alpha-numeric code unique to each individual policy at State Farm. An account number is a 10-digit number associated with a State Farm Payment Plan (SFPP).
+If you have questions about your policy or payment plan, please contact your agent.
+
+##
+Q4. What is my user ID and password?
+
+A. Your user ID and password is created during registration. If you have already registered online, you may use the Forgot User ID and/or Forgot Password links on statefarm.com®.
+
+##
+Q5. Why am I unable to access my spouse's account online? We are listed on the same policy.
+
+A. For security reasons, each statefarm.com online account can only be listed in one name and date of birth. Each named insured on the policy may register their individual online account.
+
+##
+Q6. I'm getting a message that I'm not authorized to view my policy online. What should I do?
+
+A. If you receive this message when trying to access your policy, please contact your agent.
+
+##
+Q7. I am unable to view my bank account online. What should I do?
+
+A. Please contact State Farm Bank® at 877-SF4-BANK (877-734-2265).
+
+##
+Q8. Why can't I access my business policy online?
+
+A. Currently business accounts do not have online access.
+
+##
+Q9. Can I print my declaration page online?
+
+A. Due to technical limitations, the declaration page is not available online. Some information is available in the My Accounts tab, however this information is not proof of coverage.
+To request a declaration page, please contact your agent.
+
+##
+Q10. How can I print a new insurance card online?
+
+A. You can view, print, and email a new insurance card or request a mailed ID card online.
+To request an ID card, follow these steps:
+1. Log in to your online account on statefarm.com.
+2. Above the vehicle description, click the Auto Policy
+3. Click Request Insurance Cards.
+4. Indicate how you want to receive your insurance cards and if you need cards for additional vehicles.
+5. Click Submit.
+
+To view, print, or email an ID card, follow these steps:
+1. Log in to your online account on statefarm.com.
+2. Select the Auto policy for the ID card.
+3. On the Auto Policy Information page, click View/Print Documents.
+	The Document Center will open an "ID Card" electronic document.
+	You can view, print, or email the ID card.
+If you're a new policyholder that purchased a policy online, you can download temporary insurance cards and your Auto Insurance Binder in the My Accounts page secure message mailbox or through the confirmation email sent to you. The temporary insurance card is available for 30 days after policy purchase.
+
+Note: You can also contact your State Farm agent for a new identification card.
+
+##
+Q11. Can I change my coverages online?
+
+A. Yes. You may request changes to your coverages online and they will be forwarded to your agent for processing.
+
+To request changes, follow these steps:
+1. Log into your account.
+2. Select the policy you want to change.
+3. Click Quote/Change Coverages.
+4. Select the coverages you would like to change and click Continue.
+5. Review changes and click Continue to approve.
+6. Enter Contact Information and click Continue.
+7. Review changes and click Submit.
+
+##
+Q12. Can I add a driver to my account online?
+
+A. You can only request to add a driver online. From there, the request will be sent to your agent for processing.
+
+To request an added driver to your account, follow these steps:
+1. Log into your account.
+2. Select the policy you want to change.
+3. Click Add a Driver.
+4. Enter the new driver information and click Continue.
+5. Enter Additional Information and click Continue.
+6. Enter Contact Information and click Continue.
+7. Review request and click Submit.
+
+##
+Q13. I made a payment though my agent's office. Why is it showing I have an amount due?
+
+A. It could take up to 24 hours for a payment made in your agent's office to reflect online. If it has been over 24 hours, please contact your agent.
+
+##
+Q14. What browsers are compatible with statefarm.com?
+
+A. Internet applications on statefarm.com are compatible with all current and some past versions of most Internet browsers, including: Google Chrome, Internet Explorer, Safari, and Mozilla Firefox.
+
+##
+Q15. Who do I contact if I have other online questions?
+
+A. You can contact Internet Support by phone at 888-559-1922. Internet Support representatives are available 24-hours a day, seven days a week.
+
+##
+Q16. How do I sign-up to view billing and payment information online?
+
+A. For online policy access, complete the registration process. Once registration is complete, you'll have access to all available policies and account information within 48 hours.
+
+Once you've registered, you'll be able to:
+
+	View your current insurance bills
+	Submit electronic payments
+	View bill and payment history
+	Choose email notifications of your billing statements
+	Stop paper bill delivery for SFPP accounts
+	And much more
+
+##
+Q17. I requested access to my policy for payment, why is it not showing up?
+
+A. Only the owner or named insured of a policy have access to that policy. Please contact your State Farm agent for questions about ownership or names on a policy or account.
+
+##
+Q18. Where do I access my online billing and payment information?
+
+A. Use the Insurance Bill Pay link to access your account. Enter your statefarm.com user ID and password to login. You will be directed to your billing and payment information.
+
+##
+Q19. How will I know when I have new bills to pay?
+
+A. We offer an option to receive email notifications when your electronic bills are ready.
+
+To start or stop email notices, follow these steps:
+1. Login to your statefarm.com account.
+2. Click Payment and Transfers on the left navigation bar.
+3. Click Make a Payment.
+4. Click Preferences on the top navigation bar.
+5. Select the Receive email notices when new bills are prepared
+6. Verify your email address and update it as needed.
+7. Click Apply.
+
+##
+Q20. Why can't I pay my bill online?
+
+A. You must have your policies and SFPP accounts enabled for online access to view and pay your bills online. If you have a question regarding your policies or accounts, contact your State Farm agent.
+
+Situations where bills are not available online include:
+
+	Limitations on past-due payments accepted online. This varies by policy and bill type. Bills listed on the Bills and Offers page with a select box are eligible for online payment.
+	No bills are prepared for your policy. If no bills are prepared for your policy, the following message will display on the History page below your policy number: "There is no prior bill and payment activity for this policy/account." You can register for bill email notifications on the Preference page.
+	The notice type isn't available for payment through Insurance Bill Pay (IBP). This includes SFPP accounts, Life Recurring Monthly accounts, some cancellation notices, and some notices that include a Renewal Coverage Offer.
+
+##
+Q21. What payment methods can I use?
+
+A. We accept Electronic Funds Transfers (EFT) from your checking, money market, or savings accounts and Visa®, MasterCard®, American Express®, and Discover® cards.
+Approved payment methods will be noted on your Provide Payment Information page.
+
+##
+Q22. When is a payment processed when I authorize a payment?
+
+A. Processing begins on the payment date. Generally, your account will be credited the same business day your payment is processed. Refer to the Terms and Conditions of Use for additional clarification.
+Funds will be withdrawn from your bank account one business day after your payment date. In most cases, charges to your credit card will be processed the same day as your payment date.
+Authorized payments will be reflected online within 24 hours. However, the "Policy Amount Due" on the Policy Information page may not reflect a payment for up to two business days.
+
+##
+Q23. How do I make a payment?
+
+A. To make a payment, you can either: 
+	Login to your online account, or
+	Make a payment by using the key code from your latest bill
+
+Once you have accessed your policies, follow these steps: 
+1. Above the list of your insurance policies, click Pay Insurance Online.
+	You will be directed to the insurance bill pay Bills and Offers
+	New bill pay users will be asked to review and accept the Terms and Conditions of Use.
+2. Select the specific bills you want to pay.
+3. Click Pay Selected Bills.
+4. Enter the following information on the Provide Payment Information page:
+	A bank or credit card account number
+	Your payment account
+	The payment date
+	The payment amount
+5. Click Continue.
+	You will be directed to the Authorize Payment
+6. Review the payment information and accept the Terms and Conditions.
+7. Click Make Payment to submit payment.
+	A confirmation page will display.
+	If no confirmation page displays, wait 15 minutes and check your History Confirmation numbers will display when processing is complete.
+Note: If no bills are prepared for your policy, the following message will display on the History page below your policy number: "There is no prior bill and payment activity for this policy/account." You can register for bill email notifications on the Preference page.
+
+##
+Q24. Why don't all my completed payments show online?
+
+A. Most payments, regardless of how they are received, display on the Insurance Bill Pay History page.
+For specific policy and payment questions, contact your agent.
+
+##
+Q25. Duplicate payment information
+
+A. Duplicate payments are defined as: two or more payments made on the same insurance policy or State Farm Payment Plan (SFPP) account, for the same dollar amount, and processed on the same business day.
+
+To minimize the impact to you, State Farm handles duplicate payments as follows:
+
+	Only one payment is processed if multiple payments are made using the same bank account and submitted within 15 minutes of each other.
+	Payments are processed if different bank accounts or credit cards are used for each payment.
+	Payments are processed if one or more credit cards are used. If only one credit card is used and the payments are submitted on the same calendar day, you are contacted by email and given instructions on how to receive a refund if the duplicate payment was not intended.
+
+##
+Q26. How do I start paperless billing?
+
+A. To change your paperless billing preferences, follow these steps: 
+1. Log into your online account.
+2. From the drop-down menu next to your payment plan, select Manage paperless billing.
+3. Click Go .
+4. Select Discontinue your SFPP account paper bills.
+	Receive email notice will automatically pre-select.
+5. Click Apply.
+	Your billing preference will be applied to your next billing statement.
+
+##
+Q27. Who do I contact if I have questions about billing or payments?
+
+A. Please contact your agent if you have questions about your bills, payments or Renewal Coverage Offers. Your agent's phone number and email are available on the details page of your bill.
+
+##
+Q28. Can I change my agent online?
+
+A. Yes. You can log on to your Policies and Accounts, and click "Change Agent" located on the left below your agent's photo. Most changes take effect within five to seven business days.
+
+##
+Q29. Can I complete the process without an agent?
+
+A. No. If you don't have an agent or haven't selected an agent, one will be assigned to you for all State Farm quotes, policies, and accounts.
+
+##
+Q30. Can I have multiple agents?
+
+A. Yes. You can have a different agent assigned to each State Farm policy and account.
+
+##
+Q31. How do I search for an agent?
+
+A. A list of agents is available in the left margin of the Quote and Application page. To search additional agents, select Find a Different Agent. Once selected, a new page will launch where you can enter additional search criteria.
+
+##
+Q32. Why can't I find the agent I'm looking for?
+
+A. A specific agent may not display because they're currently not licensed and authorized to solicit or service the type of policy that you're interested in purchasing.
+
+##
+Q33. What if I don't select an agent?
+
+A. If you don't select an agent, one will be assigned to you for all of your State Farm policies and accounts.
+
+##
+Q34. I selected an agent in the quote, but didn't complete the quote. Do I have to select a new agent?
+
+A. The agent saved in the quote will still be the assigned agent. For saved quotes, you will not have to reselect an agent.
+
+##
+Q35. Can I select an agent in another state?
+
+A. Yes. You can choose any State Farm agent who is licensed and authorized to service the selected product in your state.
+
+##
+Q36. Can I select a different agent after I've already chosen one?
+
+A. You can change agents throughout the quoting, application, and purchasing process.
+
+##
+Q37. How do I register for an online account?
+
+A. Registration is easy and takes about five minutes. Go to statefarm.com and click Register.
+To get started, you need:
+	At least one State Farm product
+	A valid email address
+
+##
+Q38. Do I have to pay for an online quote?
+
+A. No. The quote is free.
+
+The quote provides an estimate based on the information you provide and contains descriptions of available coverages. It is not a statement of contract. All coverages are subject to policy provisions and applicable endorsements. Coverages, availability, and minimum coverage limits vary by state. Contact a State Farm® agent for further details.
+
+##
+Q39. Do I have to buy auto insurance from State Farm if I get a quote online?
+
+A. No. Obtaining an insurance quote is free and does not commit you to any purchases or policies.
+
+##
+Q40. What if I have more than four vehicles or four drivers in my household?
+
+A. If you need a quote or coverage and have more than four vehicles or four drivers, contact a State Farm agent.
+
+##
+Q41. What if I have a vehicle that's not listed in the Vehicle Type section?
+
+A. Please contact a State Farm agent if you're trying to insure a classic automobile or any atypical vehicle-type (e.g., motorcycle, snowmobile, camper, ATV, etc.).
+
+##
+Q42. What is the difference between sending my quote and purchasing with an agent?
+
+A. You may send your quote to an agent anytime during the quote process. If you haven't completed the online form, an agent will contact you to complete the process.
+
+If you received a quote online, you can still purchase with an agent. The agent will contact you to gather any additional information.
+
+##
+Q43. How can I pay for my insurance if I decide to purchase it online today?
+
+A. State Farm accepts VISA, MasterCard, American Express, Discover, Diners Club, and JCB credit and debit cards.
+
+##
+Q44. Can I pay by phone or mail instead of online?
+
+A. Yes. State Farm has ways to ensure the security of your payment information, but if you're uncomfortable making an online payment, you can forward your application to a State Farm agent. They will contact you about payment arrangements. The coverage effective date will depend on the new payment arrangements made with the agent.
+
+For additional questions, contact an agent or see our Privacy Policy.
+
+##
+Q45. Can I use my check card or debit card?
+
+A. If your check card or debit card has a VISA, MasterCard, American Express, Discover, Diners Club, or JCB logo on it, we'll accept it.
+
+##
+Q46. When does my coverage start?
+
+A. Your coverage begins once you receive valid proof of insurance. You can access your proof of insurance online.
+
+##
+Q47. Is the receipt the same thing as proof of insurance?
+
+A. No. The confirmation page is your receipt. After we receive your payment, you're redirected to a new page which includes your proof of insurance. You will also receive an email containing your State Farm confirmation number, policy number, and proof of insurance.
+
+Note: If you chose a future date for your policy to begin, your proof of insurance will not be valid until that date.
+
+##
+Q48. I changed my mind about purchasing this insurance. What should I do?
+
+A. You can save your quote to continue at a later time. When you save your quote you will receive an email containing a link to the application process.
+
+If you've received a State Farm reference number, your application has already been submitted. Your agent will be contacting you to discuss your policy. You can wait for your agent to call or contact them to discuss your options. If you did not receive a reference number, your application was not submitted and your payment should not be processed.
+
+##
+Q49. I am a current auto insurance customer, why can't I get a quote for another auto policy online?
+
+A. If you're a current State Farm auto policyholder, you can get a quote by following these steps:
+1. Log into your account.
+2. Select your current auto policy.
+3. Click Quote/Replace a Vehicle.
+The request will be forwarded to your agent for processing.
+
+##
+Q50. Where do I find information about Drive Safe and Save?
+
+A. You can click on the Drive Safe and Save link or search "Drive Safe and Save" in the search field.
+
+##
+Q51. Where do I find information about the Steer Clear discount?
+
+A. You can click on the Steer Clear link or search "Steer Clear" in the search field.
+
+##
+Q52. Is my payment information secure on your website?
+
+A. At State Farm, we take your concerns about online security very seriously so you can pay without worry. We employ industry-standard controls for protecting customer data and keeping the server environment stable.
+
+##
+Q53. What does a homeowners policy cover?
+
+A. Unless the cause of loss is excluded in the policy, a homeowners policy provides coverage for personal liability, medical payments to others, and accidental direct physical loss to your dwelling.
+In addition, the policy provides coverage for your personal property for specific perils including, but not limited to:
+	Fire
+	Lightning
+	Windstorm
+	Hail
+	Theft
+
+##
+Q54. What does State Farm define as a dwelling?
+
+A. State Farm defines dwelling as a home and any structures attached to it. This may include:
+	Porches and patios
+	Attached garages
+	Decks
+
+##
+Q55. Does my homeowners insurance cover other structures on my property?
+
+A. Yes. In addition to your dwelling, State Farm covers other detached structures located on your property that are separated by clear space from the dwelling. The basic policy covers other structures at 10% of your dwelling coverage.
+This includes, but is not limited to:
+	Detached garages
+	Equipment sheds
+	Barns
+	Guest cottages 
+
+Contact your agent about insuring other structures on your property.
+
+##
+Q56. How much insurance coverage should I have on my home?
+
+A. The insurance coverage amount is your choice. We recommend that you purchase coverage equal to or greater than the estimated replacement cost of your home. Your home's estimated replacement cost also determines which policy options are available to you.
+
+Since it's impossible to predict the cost to replace your home in the future, it's important to have enough coverage to account for unforeseen circumstances.
+
+##
+Q57. What is the difference between market value and replacement cost?
+
+A. Market value is the amount a buyer would pay for the home and land in its current condition. It is influenced by factors such as proximity to good schools, local crime statistics, and the availability of similar homes.
+
+Replacement cost is the cost to replace the entire home. When you insure your home for its estimated replacement value, your insurer will reimburse you for the cost of rebuilding your home, subject to policy limitations, based on the size and structure of the home that was lost.
+Replacement cost is not:
+	The market value of the home
+	The home's purchase price
+	The cost of the land
+	The outstanding amount of any mortgage
+
+##
+Q58. How do I create an inventory of my personal property?
+
+A. You can click on the Home Inventory site link or search "personal property inventory" in the search field.
+
+##
+Q59. Can I purchase my policy online?
+
+A. In most cases you can purchase a policy online at the end of the quote process. You can also retrieve and purchase a policy up to 30 days after you receive a quote.
+
+When purchasing online you have the opportunity to verify the information you provided during the quote process.
+
+Note: Premiums are based on the information provided which must comply with State Farm rules and may be revised.
+
+##
+Q60. How can I save money on my homeowners insurance?
+
+A. State Farm helps you save on homeowners insurance by offering the following discounts. Contact your agent for additional discount information.
+
+	Claim Free Discount - You may qualify for homeowners discounts when you have a claim free history for a specific time period.
+	Home Auto Discount - You may be eligible for a discount if you have a qualifying auto policy with State Farm.
+	Home Alert Discount - You may qualify for homeowners discounts for using fire and burglar alarms.
+	Utilities Rating Plans - You may qualify for homeowners discounts by updating your home utilities with a qualified contractor.
+	Impact Resistant Roof - You may qualify for homeowners discounts by using certain impact-resistant roofing products.
+	Automatic Sprinkler Discount - You may qualify for homeowners discounts if your home has indoor automatic fire sprinklers.
+
+Note: Insurance, coverage, and discounts are subject to terms and conditions, which vary by state and coverage.
+
+##
+Q61. Why are you asking for my Social Security number?
+
+A. Providing your Social Security number (SSN) is optional. However, providing a SSN is the most accurate way to help us identify consumer reporting information related to our applicants.
+Your SSN is treated as confidential information in accordance with the State Farm privacy policy. We value our customers and potential customers and take privacy seriously.
+
+##
+Q62. If I get a life quote over the phone, can I receive a copy of my quote?
+
+A. Yes. Your agent can email a PDF of your quote.
+
+##
+Q63. Do I need an email address to apply for life insurance online?
+
+A. Yes. You need an email address to complete an electronic application and view policy information documents.
+Note: If you do not have an email address, contact a State Farm® agent to apply for coverage.
+
+##
+Q64. How will I receive notifications about my life application?
+
+A. You can receive email notifications if you provide an email address and consent to email notifications. You will not receive any life quote or application notifications over text message.
+If you do not have an email address and consent, contact your State Farm® agent for application notifications.
+
+##
+Q65. How do I apply for a life quote online?
+
+A. To request a life insurance quote online:
+	1. Access the Get a Life Quote, at the top of this page.
+	2. In the Select a State field, select your state from the drop-down list and click Go.
+	3. In the Life Quote Pre-Check box, click Continue if you are age 14 or older.
+	4. Complete all of the information on the Life Insurance Quote page and click Get Quote.
+
+##
+Q66. How can I see my saved quote?
+
+A. To see your saved quote, complete these steps:
+	1. Log in to statefarm.com®.
+	2. Click Continue under the saved quote on your My Accounts page.
+Note: You must be a statefarm.com registered user to retrieve saved quotes.
+
+##
+Q67. Can I send my life quote to an agent?
+
+A. To send your quote to an agent, complete these steps:
+	1. Access the Get a Life Quote, at the top of this page.
+	2. In the Select a State field, select your state from the drop-down list and click Go.
+	3. In the Life Quote Pre-Check box, click Continue if you are age 14 or older.
+	4. Complete all of the information on the Life Insurance Quote page and click Get Quote.
+	5. Select a policy type on the Select a Policy page.
+	6. Complete the information on the Customize Policy page or review the Your Quote Summary screen.
+	7. Click Send to Agent in the left corner of the screen.
+	8. Complete the required information on the Send to Agent screen and click Send to Agent.
+Note: Once the agent accesses the quote or application, you will no longer have access to edit your quote or application. However, you can view the progress of your application through Customer Life Underwriting Status View (CLUSV) on My Accounts.
+
+##
+Q68. Can I retrieve my saved quote and application later?
+
+A. Yes. You can retrieve your life quote and application in these ways:
+	Follow the instructions in the email you received.
+	Log in to statefarm.com® and click Continue under the saved quote you want to view.
+
+Note: If it has been more than 30 days since the quote was saved, you must start a new quote.
+
+##
+Q69. Can I save my life quote and application online?
+
+A. Yes. Once you choose a product, you can save your quote by clicking Save at the bottom of any page. The saved quote is available for 30 days.
+
+Note: If it has been more than 30 days since the quote was saved, you must start a new quote.
+
+##
+Q70. Can I choose my State Farm agent?
+
+A. You can choose a State Farm® agent when you get a life insurance policy quote on statefarm.com®. If you do not choose an agent before you start an application, the system will assign one. Once you start a life application, you will not be able to change your agent.
+
+##
+Q71. Are all life insurance products available to apply online?
+
+A. No. Not all life products are available to apply online. Contact a State Farm® agent if you cannot apply online for a specific product.
+
+##
+Q72. Why should I sign up for the Paperless Notice of Privacy Policy?
+
+A. You can reduce the amount of paper you receive by signing up to Go Paperless. You can view the Notice of Privacy Policy online instead of receiving a mailed copy. You'll also help State Farm achieve its Green Mission.
+
+##
+Q73. Why do I have to register for an online account before I can view my Notice of Privacy Policy online?
+
+A. Anyone can read the State Farm Notice of Privacy Policy online. If you don't want to receive a mailed Notice of Privacy Policy, we need to know you consent to the Paperless Notice of Privacy Policy guidelines. In order to consent, you must register for a State Farm online account.
+
+##
+Q74. How do I register for an online account?
+
+A. Registration is easy and takes about five minutes. Go to statefarm.com® and click Register.
+   To get started, you need:
+	At least one State Farm product
+	A valid email address
+
+##
+Q75. I signed up to get my Notice of Privacy Policy online. When will my preference take effect?
+
+A. Your preference will be processed immediately. However, Notice of Privacy Policy mailers are scheduled throughout the year. If you received a mailed Notice of Privacy Policy after you signed up, it's likely because it was mailed before your new preference was processed. Rest assured, your preference will remain as long as your State Farm online account is current and active.
+If you have questions, contact your agent or the State Farm Privacy Policy Information Line at 800-865-6035.
+
+##
+Q76. Do I have to sign up separately for each State Farm product I have?
+
+A. No. When you sign up for the Paperless Notice of Privacy Policy online it applies to all of your U.S. State Farm policies and accounts. To also learn about paperless statement and billing options, click Go Paperless.
+
+##
+Q77. Do I have to sign up each year?
+
+A. No. Your Paperless Notice of Privacy Policy online preferences are saved as long as your online State Farm account is current and active. To keep your account current and your preference in force, you must have logged into your account during the past 11 months.
+
+##
+Q78. Can I get an emailed Notice of Privacy Policy?
+
+A. Not at this time. You can view the Notice of Privacy Policy on statefarm.com® or request a paper copy from your agent.
+
+##
+Q79. Can I print the Notice of Privacy Policy for my records?
+
+A. Yes. You can print a copy of the Notice of Privacy Policy from your Internet browser.
+
+##
+Q80. Will I get a discount for signing up for the Paperless Notice of Privacy Policy?
+
+A. Currently there are no discounts available for selecting the Paperless Notice of Privacy Policy.
+
+##
+Q81. Why am I receiving this Notice?
+
+A. This Notice is not a solicitation. It is an annual Notice of Privacy Policy to our customers explaining our company's privacy policies and practices. It's required by the Gramm-Leach-Bliley Act (GLBA), which is a federal law that includes provisions to protect the privacy of the personal information of consumers held by financial institutions (including insurers). In accordance with GLBA, we provide this notice the first time we do business with a customer and every year they are a State Farm customer.
+
+If you prefer not to receive the paper mailing, and you do business with us electronically, a paperless option is also available for this Notice. We highly recommend that you sign-up to get your Notice Online at statefarm.com®.  State Farm® is committed to a future where environmental values are key to the way we do business. A Good Neighbor is a Green NeighborTM.
+
+##
+Q82. What does this Notice tell me?
+
+A. Our Notice provides an overview of how we protect, collect, use, and share customer information.
+
+##
+Q83. What is customer information?
+
+A. Customer information means all nonpublic information related to an identified individual, which is sometimes called personally identifiable information. Customer information does not include anonymized data or de-identified data, which do not identify an individual.
+
+##
+Q84. How long does State Farm retain my information?
+
+A. State Farm retains customer information for legal, auditing, regulatory and business purposes. Retention periods vary according to specific legal, auditing, regulatory and business needs. Information about former, prospective and existing customers is also collected and retained.
+
+##
+Q85. What does "Do Not Share" mean? Does it mean I will no longer receive marketing materials from State Farm?
+
+A. No. "Do Not Share" is your right to limit the sharing of certain types of information (such as your driving record) within our State Farm family of companies. Your election to limit sharing, is not a marketing opt-out. You may still receive information about State Farm insurance and financial services products.
+
+##
+Q86. What do I do if I want to opt-out from State Farm mail offers, email offers, or telephone solicitations?
+
+A. You can choose not to receive marketing offers by direct mail, telephone, or email. We will honor your requests to opt-out throughout the State Farm family of companies or just for specific product lines or companies.
+You can make this choice or update your previous choice by: 
+	Submitting the Do Not Solicit form
+	Contacting your agent, or 
+	Writing us at the following address:
+
+
+State Farm Mutual Automobile Insurance Company 
+Mail Response Center 
+One State Farm Plaza 
+Bloomington, IL 61710
+
+For information about online marketing, see our About Our Ads & Tracking page.
+
+##
+Q87. Is there a method that I can stop all marketing solicitations from all companies?
+
+A. No, but there are ways you can reduce the number of solicitations you receive from companies, in general, with whom you do not have a customer relationship.
+	To reduce the number of mailings you receive, visit: www.DMAChoice.org.
+	To reduce the number of phone calls you receive, visit www.donotcall.gov.
+You may also contact specific companies and ask that they do not contact you through direct mail, email, or telephone solicitations.
+Certain states may have state-run programs where individuals can be placed on a Do Not Call list to avoid marketing calls from businesses with whom they do not have an existing relationship. Your state will provide details on how to be placed on such a list.
+
+##
+Q88. What is State Farm Bank's routing number?
+
+A. Our routing number is 071174431.
+
+##
+Q89. What information do I need to apply for a State Farm Bank account?
+
+A. Visit our Product pages to learn about our accounts and the ways to open an account with us.
+The following information is required for each applicant to apply for an account:
+	Date of birth
+	Social Security number
+	A valid U.S. address
+		For multiple residences, one must be inside the U.S. in order to apply.
+		State Farm Bank no longer accepts deposit account applications for non resident aliens (NRA).
+The following documentation can be used as a secondary form of identification to open a checking, savings, money market savings, and fixed rate certificates of deposit (CD):
+	Individual Taxpayer Identification Number (ITIN)
+The only secondary form of identification accepted when applying for other types of deposit accounts, credit cards, or loans is an ITIN card. Applications with an alternative form of identification must be completed with a participating State Farm agent.
+
+Note: You do not need to be a policyholder of State Farm to open a State Farm Bank account.
+
+##
+Q90. Why is State Farm Bank asking anticipated activity questions?
+
+A. Banking regulations require that we collect information to identify customers and understand their anticipated activity. In addition to meeting regulatory expectations, this information helps us understand our customers' needs and tailor our products to meet those needs.
+
+##
+Q91. How can I estimate my monthly cash activity?
+
+A. To estimate your monthly cash activities, consider the amount of cash you deposit or withdrawal from an ATM on a monthly basis.
+
+##
+Q92. What is an electronic funds transfer?
+
+A. An electronic funds transfer (EFT) is the electronic transfer of money from one account to another by computer or mobile device. Click here for a short video to learn more about how you can transfer money between accounts.
+
+##
+Q93. How do I change my debit card's personal identification number (PIN)?
+
+A. To change your PIN, please call us at 877-SF4-BANK (877-734-2265). Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service.
+
+##
+Q94. What should I do if my State Farm Bank debit card is lost or stolen?
+
+A. Call us at 877-SF4-BANK (877-734-2265). Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service. If you are outside the U.S., call us collect at 309-994-6170.
+Lost or stolen cards will be canceled and replacements sent to all authorized cardholders within 7-10 business days.
+For more information, please visit the Report a Lost or Stolen Card article on the Account Help tab on the Managing My Account page.
+
+##
+Q95. What is the difference between a fixed rate mortgage and an adjustable rate mortgage (ARM)?
+
+A. Fixed rate mortgages and ARMs are mortgage loan options.
+With a fixed rate mortgage the interest rate and monthly payments for principal and interest do not change over the term of the loan.
+An ARM's interest rate may change periodically based on a specified index. ARM loans may allow you to have a lower payment for a certain period of time because the interest rate is usually lower than a fixed rate mortgage. However, they carry a degree of uncertainty since rates may go up in the future.
+The right type of mortgage for you depends on many factors, including:
+	Your current financial state
+	How long you intend to keep the house
+	Your expected financial changes
+	Your comfort with risk and potential mortgage payment changes
+
+##
+Q96. What is an appraisal?
+
+A. An appraisal is a report made by a licensed or certified appraiser who provides a professional estimate of the property value. When you apply for a mortgage loan with State Farm Bank, we initiate the process to get an appraisal ordered.
+
+##
+Q97. What is a jumbo loan?
+
+A. A jumbo loan is a mortgage that exceeds the maximum loan amount established by the Federal National Mortgage Association (FNMA), also known as Fannie Mae, and the Federal Home Loan Mortgage Corporation (FHLMC), also known as Freddie Mac. Jumbo loans are also referred to as non-conforming loans.
+
+##
+Q98. What are conforming and non-conforming loans?
+
+A. Conforming loan meet loan limits as established by the Federal National Mortgage Association (FNMA), also known as Fannie Mae, and the Federal Home Loan Mortgage Corporation (FHLMC), also known as Freddie Mac.
+Non-conforming loans, or jumbo mortgages, exceed these limits.
+
+##
+Q99. What are discount points and how are they calculated?
+
+A. Discount points are a one-time charge or credit by the lender. Each point is equal to one percent of the principal loan amount and can be paid to buy down the loan's interest rate. Points are typically paid at loan closing. If you have questions, please call us at 877-SF4-BANK (877-734-2265). Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service.
+
+##
+Q100. What information do I need to apply for a home loan?
+
+A. All State Farm Bank mortgage applications will ask for information regarding:
+	Employment
+	Income
+	Assets
+	Debts
+	The prospective property you intend to purchase or refinance
+Additional information may be needed depending on your situation. If you have questions, see our Mortgage Application Checklist [PDF-219.7KB].
+
+##
+Q101. How important is my credit when I'm applying for a loan?
+
+A. Your credit is an important consideration in our decision-making process. Late payments or other adverse information in your credit report will receive additional review during loan underwriting and may require you to provide additional information.
+
+##
+Q102. Who do I contact once my loan is in process and how do I update my application?
+
+A. Once your application has been submitted, we will connect you to the mortgage consultant who will be processing your loan.
+To update your application or ask a question about the process, please call us at 877-SF4-BANK (877-734-2265). Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service.
+
+##
+Q103. When can I lock in my interest rate?
+
+A. Typically, you can lock your interest rate after the following has been completed:
+	Submitting the application
+	Signing initial disclosures
+	Paying the vendor fee
+Providing a copy of the Purchase Agreement or Sales Contract (for home purchases). We offer a wide range of lock-in periods based on your needs. If you don't lock your rate at application, you must lock your rate at least five business days before closing.
+
+##
+Q104. What are closing costs?
+
+A. Closing costs include all loan transaction fees and expenses. They may include fees for an appraisal, credit report, title insurance, survey, and points. Closing costs vary depending on the loan product and customary fees in your area.
+
+##
+Q105. Can I access my home mortgage online?
+
+A. Yes. You can access your mortgage account and pay mortgage payments online. To enroll your mortgage loan online, follow these steps:
+	Go to "Login" at the top of this page.
+	Click Register.
+	Enter registration information.
+	Login with your user ID and password.
+		Your mortgage account will be viewable within two hours of your registration.
+
+##
+Q106. When is my payment due?
+
+A. Refer to your mortgage note for the exact due date for your loan. Most monthly payments are due on or before the first of each month. Payments are posted on the date of receipt, not on the postmark date, so allow five to seven days if mailing a payment.
+The payment due date on your mortgage note cannot be changed.
+
+##
+Q107. Can I make additional principal payments?
+
+A. Unless stated in your mortgage documents, you can make extra principal payments of any amount with your regularly monthly payment.
+To make an extra principal payment, fill out the Payment Distribution box on your mortgage billing statement coupon and indicate the dollar amount that should be applied to the principal balance. Additional principal payments will reduce the amount of principal that you owe. There will be no changes to the due date or monthly payment.
+
+##
+Q108. Will my mortgage payments change?
+
+A. It's possible if you have an adjustable rate mortgage or an escrow account associated with your loan.
+The principal and interest of a fixed rate loan does not change. The principal and interest on adjustable rate mortgages may change as outlined in your mortgage. If the principal and interest portion of your payment changes, you will receive a letter with your new payment amount.
+Your monthly payment might change if you have an escrow account for the payment of real estate taxes, mortgage insurance premiums, and any other mortgage loan items. Monthly escrow payments must be one-twelfth of your annual escrow amount. If there's any change to your escrow payment, you will receive an Annual Escrow Account Disclosure Statement.
+
+##
+Q109. How do I obtain a payoff statement?
+
+A. You can request a mailed payoff statement the following ways:
+
+	Call us at 877-SF4-BANK (877-734-2265). Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service.
+	Fax us at 609-538-4005.
+	Write us at:
+		State Farm Bank
+		P.O. Box 77404
+		Ewing, NJ 08628
+
+##
+Q110. What is private mortgage insurance (PMI) and when do I need it?
+
+A. PMI is insurance provided by non-government companies that protects mortgage lenders in the event of default by the borrower. Typically, PMI is required if your loan amount is more than 80% of the value of your property.
+At the time of your loan closing the mortgage note holder will determine the PMI cancellation conditions. The mortgage note holder will consider factors including loan-to-value ratio and the property's appraised value. PMI will also provide for automatic termination for loans that are current at the earlier of the midpoint of the amortization period or the date the principal balance of your loan is first scheduled to reach 78% of the original value of your property. The borrower also has the right to request PMI be canceled on or after the date the balance on your loan is first scheduled to reach 80% of the original value of the property. Factors such as whether the loan is current and the time since the loan closed may also impact the termination of PMI.
+
+##
+Q111. What is title insurance and why do I need it?
+
+A. Title insurance protects the lender and the homeowner against loss resulting from disputes over ownership of the property.
+
+##
+Q112. Is flood insurance required for my property?
+
+A. Federal law requires that we perform a flood search on your property before the loan closing and that we monitor flood map changes for the life of the loan.
+If your building or structure is located in a Special Flood Hazard Area, Zone A or V, as determined by the Federal Emergency Management Agency (FEMA), we require a flood insurance policy, except when exempt per federal regulation. Non-residential detached structures may not require flood insurance. We must maintain an escrow account for paying flood insurance premiums if flood insurance is required.
+
+##
+Q113. What is the minimum insurance coverage and the maximum insurance deductible allowed?
+
+A. For homeowners insurance, the minimum coverage amount required is the lesser of the loan balance (as long as that equals 80% of the insurable value of the improvements) or 100% of the insurable value as determined by your insurance carrier. The maximum deductible for homeowners insurance is 5% of the face amount of the policy.
+If you are required to have flood insurance, the minimum coverage amount required is the lesser of the outstanding principal balance of the loan, the insurable value as determined by your insurance carrier, or the maximum coverage available from the National Flood Insurance Program (NFIP) based on property type. The deductibles are governed by Federal law, but currently the maximum deductible is $10,000 for a single family dwelling and $25,000 for a condominium association policy. Please contact your agent to determine the coverage to meet your needs.
+
+##
+Q114. What is the process for getting assistance with my homeowner's claim check?
+
+A. If your home has been damaged and you've filed an insurance claim, you can get assistance with the process and instructions on disbursing your funds. The process may vary depending on the loss. Please call the Loss Draft Hotline at 877-909-0427 for further information. Callers who are hearing or speech impaired should dial 711 or use a preferred Telecommunications Relay Service.
+
+##
+Q115. How is interest calculated on my auto loan?
+
+A. State Farm Bank® vehicle loans are simple interest loans. Simple interest calculations are used for installment loans:
+	The remaining principal is multiplied by the interest rate to calculate the total interest for one year.
+	The annual interest is divided by the number of the days in the year to calculate the interest per day.
+	The interest per day is multiplied by the number of days between payments to calculate the amount due each payment.
+Example:
+
+	A $20,000 loan at 8.49% APR = $1698.00 (annual interest)
+	$1698.00 / 365 = $4.652 (daily interest)
+	$4.652 x 30 = $139.56 (monthly interest)
+	However, the first month the loan is due, $4.652 is multiplied by the number of days from the date the funds are disbursed to the date the payment is due.
+
+##
+Q116. Who holds my title?
+
+A. This varies by state. In some states, the lienholder holds the title so State Farm Bank® would hold the title to your vehicle. Some states are title-holding states and you hold the title to your vehicle with a State Farm Bank lien on it. A few states have an electronic title that the state retains electronically.
+
+If State Farm Bank holds the title or has a lien on the title, it will be released to you on the 10th business day after the payoff is received, processed, and all other conditions are satisfied. Please allow for normal U.S. mail time.
+
+Note: If you live in a state that retains titles electronically, time frames may vary.
+
+##
+Q117. Where is auto financing available?
+
+A. State Farm Bank® vehicle loans are available in all U.S. states except Massachusetts and Rhode Island.
+
+##
+Q118. Can I make changes to my title?
+
+A. Yes. State Farm Bank accepts customer-initiated title changes. However, research fees and state title and registration fees may apply.
+If you wish to make changes to your title, call State Farm Bank at 877-SF4-BANK (877-734-2265). If you are deaf, hard of hearing, or do not use your voice to communicate, you may contact us via 711 or other relay services.
+
+##
+Q119. Can I take my vehicle out of the country?
+
+A. You may take your vehicle out of the country if you meet certain requirements and obtain permission from State Farm Bank®.
+For more information, or to request to take your vehicle out of the country, call State Farm Bank at 877-SF4-BANK (877-734-2265). If you are deaf, hard of hearing, or do not use your voice to communicate, you may contact us via 711 or other relay services.
+
+##
+Q120. What payment options do I have?
+
+A. State Farm Bank® offers the following vehicle loan payment options. State Farm Bank does not charge a fee for these payment options. However, service fees may apply from the issuing financial institution or payment transfer service.
+	Automatic clearing house (ACH) automatic payment 
+	Note: Uses a non-State Farm Bank account (external bank)
+
+	Autopay automatic payment 
+	Note: Uses a State Farm Bank checking, savings, or money market account
+
+	MoneyGram
+	Postal mail
+	Transfer from a State Farm Bank deposit account to the vehicle loan
+	Transfer from a State Farm Bank home equity line of credit (HELOC) account to the vehicle loan (account holder only)
+	Western Union
+	Wire transfer
+	Online at statefarm.com®
+	Interactive voice response (IVR) phone payment
+	Representative assisted phone payments
+Note: Online and phone payments are processed through the online vehicle payment system. These payments are processed at 7:00 p.m. CT Monday through Friday, excluding holidays. If a payment is submitted after this time on the last day of the loan’s grace period, a late fee may be assessed. Payments scheduled to be processed on a business day can only be canceled via the online vehicle payment system if the cancellation request is submitted by 7:00 p.m. CT on the day before the scheduled payment date. You can also cancel payments in advance or same day with a representative by calling 877-SF4-BANK (877-734-2265).
+
+##
+Q121. How do I make a loan payment?
+
+A. For loan payment instructions, visit the Vehicle Loan Payment Options page.
+
+##
+Q122. How do I set up automatic payments?
+
+A. You can set up automatic payments these ways:
+
+Mail 
+Complete and mail the Automatic Payment Plan [PDF-640.1KB] form with a voided check or deposit slip to: 
+State Farm Bank®, F.S.B. 
+Attn: Loan Services 
+P.O. Box 5961 
+Madison, WI 53705 
+
+Fax 
+Complete and fax the Automatic Payment Plan [PDF-640.1KB] form with a voided check or deposit slip to 800-420-8124. Please include a cover page and send to the attention of Loan Servicing. 
+
+Note: If you are paying with a State Farm Bank deposit account, you do not need a voided check or deposit slip.
+
+##
+Q123. How do I make an additional principal payment?
+
+A. Use one of these options to make an additional principal payment:
+
+	Mail a check or money order to: 
+		State Farm Bank® 
+		PO Box 5961 
+		Madison, WI 53705 
+	Note: Write your loan account number and Principal Only on the memo line.
+
+	Representative assisted phone payment
+	
+	Online transfer from a State Farm Bank deposit account
+		Must be registered online with user id and password
+
+##
+Q124. How can I tell if an online vehicle payment has been scheduled or submitted?
+
+A. To view scheduled, submitted, canceled, and paid payments made through the online vehicle payment system, complete these steps: 
+	1. Access statefarm.com®.
+	2. Enter your User ID and Password in the Log In box.
+	3. Click Make a Payment.
+	4. Click Payment History on the top navigation bar.
+Note: Payments scheduled to be processed on a business day can only be canceled via the online vehicle payment system if the cancellation request is submitted by 7:00 p.m. CT on the day before the scheduled payment date. You can also cancel payments in advance or same day with a representative by calling 877-SF4-BANK (877-734-2265).
+
+##
+Q125. What is the difference between the principal balance and payoff amount?
+
+A. Your principal account balance is the total still owed of the original loan amount.
+Your payoff amount includes:
+	Principal balance
+	Accrued interest
+	Any fees, if applicable
+
+##
+Q126. What is my grace period and how do I find out the late payment fee amount?
+
+A. The grace period for auto loans is 10 calendar days. If a payment is not received by the 10th calendar day of the grace period, interest will continue to accrue and a late fee will be assessed.
+
+You can find information about late fees on:
+	Your promissory note
+	Your coupon book
+	The payment system on statefarm.com®
+		Located in the Make a Payment Section
+For additional assistance, contact State Farm Bank® at 877-SF4-BANK (877-734-2265). If you are deaf, hard of hearing, or do not use your voice to communicate, you may contact us via 711 or other relay services.
+
+Note: Payments scheduled to be processed on a business day can only be canceled via the online vehicle payment system if the cancellation request is submitted by 7:00 p.m. CT. on the day before the scheduled payment date. You can also cancel payments in advance or same day with a representative by calling 877-SF4-BANK (877-734-2265).
+
+##
+Q127. What is a lien release?
+
+A. A lien release removes a lender as holder of the security interest in a vehicle on a title, generally after the loan is paid off.
+
+##
+Q128. How do I add my vehicle loan account to the My Accounts page?
+
+A. To create a new online State Farm Bank® account, complete these steps: 
+	1. Access statefarm.com®.
+	2. Click Log In.
+	3. Click Create an account.
+If you have an existing online account, complete these steps to add your vehicle loan account to your My Accounts page: 
+1. Access statefarm.com®.
+2. Enter your User ID and Password in the Log In box.
+3. Click My Accounts.
+4. Select Add/View Bank Account.
+5. Enter your 10-digit account number beginning with an 8.
+6. At the end of the account number, type 0001 without spaces. 
+	Example: 81234567890001
+7. Enter your email address.
+8. Click Submit.
+
+You will receive a confirmation email once the account is registered. It may take an hour after registration before the account is viewable online.
+
+##
+Q129. How do I cancel a payment made in the online vehicle payment system?
+
+A. To cancel a scheduled online vehicle payment, complete these steps: 
+	1. Access statefarm.com®.
+	2. Enter your User ID and Password in the Log In box.
+	3. Click My Accounts.
+	4. Click Make a Payment.
+	5. Click Payment History.
+	6. Under Scheduled Payments, select the payment you want to cancel.
+	7. Click Cancel.
+	8. Confirm Yes.
+Note: Payments scheduled to be processed on a business day can only be canceled via the online vehicle payment system if the cancellation request is submitted by 7:00 p.m. CT on the day before the scheduled payment date. You can also cancel payments in advance or same day with a representative by calling 877-SF4-BANK (877-734-2265).
+
+##
+Q130. What happens if I send extra funds with my payment?
+
+A. The overage applies to the principal loan balance if there are no outstanding late fees. This will reduce the principal loan balance.
+If payments are not on autopay, use one of these options if you want to send extra funds with your payment: 
+	Mail
+	Phone payment
+	Online at statefarm.com®
