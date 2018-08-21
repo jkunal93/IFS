@@ -1,6 +1,10 @@
-# Project Title
+# IFS
 
-One Paragraph of project description goes here
+Intelligent FAQ Search is a search mechanism that gives smarter and better result than regular keyword search. It
+uses Natural Language Processing (NLP) to search more efficiently through the FAQs. The main idea behind this
+project is to implement a search mechanism which gives user more desired output by recognizing what they
+actually want. It uses various strategies like n-grams, synonyms, word count, noun-phrases, etc. to find a better
+and more suitable solution.
 
 ## Getting Started
 
