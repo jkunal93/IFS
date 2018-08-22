@@ -2,7 +2,7 @@
 
 Intelligent FAQ Search is a search mechanism that gives smarter and better result than regular keyword search. It
 uses Natural Language Processing (NLP) to search more efficiently through the FAQs. The main idea behind this
-project is to implement a search mechanism which gives user more desired output by recognizing what they
+project is to implement a search mechanism which gives user more desired output by recognizing what users
 actually want. It uses various strategies like n-grams, synonyms, word count, noun-phrases, etc. to find a better
 and more suitable solution.
 
@@ -12,81 +12,36 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+You need to have following things installed on your computer
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
+Python 3.0
+Terminal or SSH
 ```
 
-And repeat
+### Deployment or Installation
 
-```
-until finished
-```
+Just the installation of Python 3 is enough to run this project.
 
-End with an example of getting some data out of the system or using it for a little demo
+index.py is the main file that makes the project up and running. The rest of the files are all suppoerting files along with the text files on which the test runs are carried out.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+Run index.py
+Select the type of search i.e. 'keyword search' or 'IFS'
+Enter the text file to search in
+Enter 'search-text' or 'query'
 ```
+You can see the search results
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+For more details, read the project report (Intelligent FAQ Search.pdf)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Kunal Joshi - (https://github.com/jkunal93)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* NLTK 3.2.5 documentation. Retrieved from Natural Language Toolkit: https://www.nltk.org/
+* Natural Language Processing with Python. O'Reilly Media.
 
