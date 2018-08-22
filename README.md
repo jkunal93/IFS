@@ -1,6 +1,6 @@
 # IFS
 
-Intelligent FAQ Search is a search mechanism that gives smarter and better result than regular keyword search. It
+Strong Intelligent FAQ Search is a search mechanism that gives smarter and better result than regular keyword search. It
 uses Natural Language Processing (NLP) to search more efficiently through the FAQs. The main idea behind this
 project is to implement a search mechanism which gives user more desired output by recognizing what users
 actually want. It uses various strategies like n-grams, synonyms, word count, noun-phrases, etc. to find a better
