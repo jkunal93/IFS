@@ -34,7 +34,7 @@ Enter 'search-text' or 'query'
 ```
 You can see the search results
 
-For more details, read the project report (Intelligent FAQ Search.pdf)
+For more details, read the project report (https://github.com/jkunal93/IFS/blob/master/Intelligent%20FAQ%20Search.pdf)
 
 ## Authors
 
